@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/intermittent-contact-afm-explainer/
 
+Repository: https://github.com/mizcausevic-dev/intermittent-contact-afm-explainer
+
 ## What this is
 
 An interactive anatomy plate for Intermittent-Contact AFM. Play, scrub, or jump the five stages. The same frame always draws the same picture.
